@@ -1,0 +1,5 @@
+﻿  Teplate method.cpp
+D:\Study IT STEP academy\Pattern-home-work\Teplate method\Teplate method\Template_method.h(35,27): warning C4018: '<': signed/unsigned mismatch
+D:\Study IT STEP academy\Pattern-home-work\Teplate method\Teplate method\Template_method.h(88,27): warning C4018: '<': signed/unsigned mismatch
+D:\Study IT STEP academy\Pattern-home-work\Teplate method\Teplate method\Template_method.h(123,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Teplate method.vcxproj -> D:\Study IT STEP academy\Pattern-home-work\Teplate method\Debug\Teplate method.exe

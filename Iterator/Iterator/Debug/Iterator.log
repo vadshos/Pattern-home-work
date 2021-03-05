@@ -1,0 +1,5 @@
+﻿  Iterator.cpp
+C:\Users\proto\source\repos\Iterator\Iterator\Iterator.cpp(46): warning C4715: 'programTVshow::CreateIterator': not all control paths return a value
+C:\Users\proto\source\repos\Iterator\Iterator\Iterator.cpp(70): warning C4715: 'IteratorTVshow::getNext': not all control paths return a value
+C:\Users\proto\source\repos\Iterator\Iterator\Iterator.cpp(85): warning C4715: 'IteratorTVshowEvening::getNext': not all control paths return a value
+  Iterator.vcxproj -> C:\Users\proto\source\repos\Iterator\Debug\Iterator.exe

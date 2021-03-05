@@ -1,0 +1,13 @@
+﻿  Social_Network.cpp
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(125,1): error C2027: use of undefined type 'FacebookIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(66): message : see declaration of 'FacebookIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(130,1): error C2027: use of undefined type 'FacebookIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(66): message : see declaration of 'FacebookIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(168,32): warning C4018: '<': signed/unsigned mismatch
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(245,1): error C2462: 'LinkedIn::createFriendsIterator::LinkedInIterator': cannot define a type in a 'new-expression'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(245,1): error C2027: use of undefined type 'LinkedIn::createFriendsIterator::LinkedInIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(245): message : see declaration of 'LinkedIn::createFriendsIterator::LinkedInIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(249,1): error C2462: 'LinkedIn::createCoworkersIterator::LinkedInIterator': cannot define a type in a 'new-expression'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(249,1): error C2027: use of undefined type 'LinkedIn::createCoworkersIterator::LinkedInIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(249): message : see declaration of 'LinkedIn::createCoworkersIterator::LinkedInIterator'
+D:\Study IT STEP academy\Pattern-home-work\Iterator First\Iterator First\Social_Network.h(285,32): warning C4018: '<': signed/unsigned mismatch
